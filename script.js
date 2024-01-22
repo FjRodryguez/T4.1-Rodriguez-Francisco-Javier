@@ -50,11 +50,11 @@ const x = window.innerWidth / 4;
 const y = window.innerHeight / 4;
 //Objeto imagenes
 const imagenes = {
-  1: { ruta: 'Imagenes/imagen1.jpg', ancho: x, alto: y },
-  2: { ruta: 'Imagenes/imagen2.jpg', ancho: x, alto: y },
-  3: { ruta: 'Imagenes/imagen3.jpg', ancho: x, alto: y },
-  4: { ruta: 'Imagenes/imagen4.jpg', ancho: x, alto: y },
-  5: { ruta: 'Imagenes/imagen5.jpg', ancho: x, alto: y }
+  1: { ruta: 'Imagenes/Imagen1.jpg', ancho: x, alto: y },
+  2: { ruta: 'Imagenes/Imagen2.jpg', ancho: x, alto: y },
+  3: { ruta: 'Imagenes/Imagen3.jpg', ancho: x, alto: y },
+  4: { ruta: 'Imagenes/Imagen4.jpg', ancho: x, alto: y },
+  5: { ruta: 'Imagenes/Imagen5.jpg', ancho: x, alto: y }
 };
 
 //Función para mostrar la imagen
