@@ -12,7 +12,7 @@ En esta captura vemos como el botón de "Home" esta resaltado sobre los demás, 
 
 - **Ley de Fitts**  
 ![captura 3](Imagenes/captura3.png) ![captura 3](Imagenes/captura4.png)     
-En estas dos capturas se aprecia esta ley de manera que cuando pulsamos en el menú haburguesa, situado en la parte superior derecha, las opciones del menú nos aparecen justo en el mismo sitio donde hicimos click, reduciendo el tiempo que tarda el usuario en interartuar con el.
+En estas dos capturas se aprecia esta ley de manera que cuando pulsamos en el menú hamburguesa, situado en la parte superior derecha, las opciones del menú nos aparecen justo en el mismo sitio donde hicimos click, reduciendo el tiempo que tarda el usuario en interartuar con el.
 
 ## Links
 - [Figma](https://www.figma.com/file/3tRsIShyfDYCHd9kT2efrX/T4.1-RodriguezFranciscoJavier?type=design&node-id=0%3A1&mode=design&t=wPcLaNPYvASukRMO-1)
